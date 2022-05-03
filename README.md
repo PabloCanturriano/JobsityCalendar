@@ -4,9 +4,22 @@
 
 # React Challenge
 
+# Pablo Canturriano
 
-## How to deploy
+## All mandatory features and bonus tasks, were completed.
 
- - Run `npm install` | `yarn install` to install all dependencies.
- - Run `npm start`   | `yarn run` to run the app locally.
- - You can find the project running on `localhost:3000`.
+The goal of this exercise is to create a demo calendar application using React.
+
+dayjs was my library of choice for Date managing and UI library React-select and MUI was used in some components in the others css was used.
+
+Forecast is available for every date and is provided by visualcrossing and icons from accuweather.
+
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### `npm run test`
