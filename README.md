@@ -17,6 +17,10 @@ Forecast is available for every date and is provided by visualcrossing and icons
 
 In the project directory, you can run:
 
+### `npm i`
+
+To install all dependencies.
+
 ### `npm start`
 
 Runs the app.<br />
